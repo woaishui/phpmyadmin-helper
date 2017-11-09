@@ -1,7 +1,10 @@
 # phpmyadmin-helper
 Automatic form filling on phpmyadmin login page.
 
-### Usage
+## Operation
+![Operation Demonstration](https://raw.githubusercontent.com/zhaoxingya/phpmyadmin-helper/master/demo.gif "Operation Demonstration")
+
+## Usage
 1. git clone https://github.com/zhaoxingya/phpmyadmin-helper.git
 2. Enter "chrome://extensions/" in the chrome address bar
 3. Check developer mode
