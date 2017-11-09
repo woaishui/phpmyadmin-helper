@@ -1,0 +1,25 @@
+{
+  "name": "phpMyAdmin Login Helper",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/zhaoxingya/phpmyadmin-helper",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "default_title": "phpMyAdmin Login Helper",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
